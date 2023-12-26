@@ -1,0 +1,15 @@
+{
+  "name": "sgvp-web",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "."
+  },
+  "repository": {
+    "type": "git",
+    "url": "Sgvp-web"
+  },
+  "author": "",
+  "license": "ISC"
+}
